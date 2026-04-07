@@ -16,4 +16,4 @@ This project is part of AmunRa, an initiative focused on renewable energy, susta
 - Streamlit
 
 ## Live Demo
-[Add your Streamlit link here]
+(https://kairo-ai-energy-advisor.streamlit.app/)
