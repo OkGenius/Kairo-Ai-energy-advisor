@@ -4,8 +4,9 @@ st.set_page_config(page_title="Kairo AI Energy Advisor", layout="centered")
 
 # Header
 st.title("⚡ Kairo AI – Renewable Energy Advisor")
-st.markdown("Helping you make smarter energy decisions using AI-driven insights.")
-st.markdown("---")
+st.markdown("Supporting real-world energy decisions using simple AI-driven models")
+
+st.info("This tool demonstrates how lightweight AI systems can support real-world energy decision-making.")
 
 # User Inputs
 st.header("🔍 Tell us about your energy needs")
